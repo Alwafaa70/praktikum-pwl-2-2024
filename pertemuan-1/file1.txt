@@ -1,0 +1,3 @@
+ini adalah kalimat pertama saya 
+kalimat kedua  di ubah di feat/lorem
+kalimat ketigagit
